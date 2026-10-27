@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ogfilip
+- 👋 Hi, I’m @FilipCzajkowski
 - 👀 I’m interested in paster
 - 🌱 I’m currently learning paster
 - 💞️ I’m looking to collaborate on paster
