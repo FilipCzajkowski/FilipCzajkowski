@@ -1,8 +1,6 @@
-# Cześć, jestem Filip Czajkowski! 👋
+# Junior IT Support | Data & System Assistant | Student IT & Cybersec
 
-### Junior IT Support | Data & System Assistant | Student IT & Cybersec
-
-Jestem studentem **Sztucznej Inteligencji** na Politechnice Lubelskiej oraz absolwentem liceum o profilu **cyberbezpieczeństwo i informatyka śledcza**. Pasjonuję się automatyzacją zadań, sieciami komputerowymi oraz analizą danych.
+Jestem studentem **Sztucznej Inteligencji w Energetyce** na Politechnice Lubelskiej oraz absolwentem liceum o profilu **cyberbezpieczeństwo i informatyka śledcza**. Pasjonuję się automatyzacją zadań, sieciami komputerowymi oraz analizą danych.
 
 ---
 
