@@ -4,14 +4,14 @@ Jestem studentem **Sztucznej Inteligencji w Energetyce** na Politechnice Lubelsk
 
 ---
 
-### 🚀 O mnie:
-- 🔭 **Aktualnie:** Rozwijam narzędzia automatyzacji w Pythonie oraz poszerzam wiedzę z zakresu administracji systemami i sieciami.
-- 💼 **Status:** Pełna dyspozycyjność do pracy od zaraz (40h/tydz.) w trybie stacjonarnym w Lublinie, hybrydowym lub zdalnym.
-- 💡 **Mocne strony:** Połączenie wiedzy o bezpieczeństwie IT z praktyczną automatyzacją procesów biznesowych i analizą danych.
+###  O mnie:
+-  **Aktualnie:** Rozwijam narzędzia automatyzacji w Pythonie oraz poszerzam wiedzę z zakresu administracji systemami i sieciami.
+-  **Status:** Pełna dyspozycyjność do pracy od zaraz (40h/tydz.) w trybie stacjonarnym w Lublinie, hybrydowym lub zdalnym.
+-  **Mocne strony:** Połączenie wiedzy o bezpieczeństwie IT z praktyczną automatyzacją procesów biznesowych i analizą danych.
 
 ---
 
-### 🛠️ Technologie i narzędzia:
+###  Technologie i narzędzia:
 
 **Języki i automatyzacja:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,6 +30,6 @@ Jestem studentem **Sztucznej Inteligencji w Energetyce** na Politechnice Lubelsk
 
 ---
 
-### 📫 Skontaktuj się ze mną:
+### Kontakt:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Filip_Czajkowski-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/CzajkowskiFilip)
 [![Email](https://img.shields.io/badge/Email-CzajkowskiFilip%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:CzajkowskiFilip@proton.me)
